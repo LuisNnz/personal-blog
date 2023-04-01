@@ -1,10 +1,4 @@
 ---
-format:
-  html: 
-    grid:
-      sidebar-width: 200px
-      body-width: 1000px
-      margin-width: 200px
 page-layout: full
 listing:
   contents: posts

@@ -1,9 +1,4 @@
 ---
-format:
-  html: 
-    grid:
-      body-width: 1250px
-      margin-width: 150px
 title-block-banner: true
 about:
   template: solana
