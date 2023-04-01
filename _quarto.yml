@@ -29,19 +29,18 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            # url: TBD
+            href: https://github.com/LuisNnz/personal-blog
           - text: My Profile
-            url: https://github.com/LuisNnz
+            href: https://github.com/LuisNnz
       - icon: twitter
         href: https://twitter.com/LuisNz__
+
+
 format:
   html:
     theme: Lux
     css: styles.css
-    grid:
-      body-width: 1250px
-      margin-width: 150px
-    
+
 
 editor: visual
 
