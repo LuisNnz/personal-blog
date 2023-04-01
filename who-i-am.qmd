@@ -1,0 +1,22 @@
+---
+title: "about me"
+about:
+  template: jolla
+  image: headshot.jpg
+  image-width: 25em
+  links:
+    - icon: person-workspace
+      text: CBPP
+      href: https://www.cbpp.org/about/our-staff/luis-nunez
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/luis-nu%C3%B1ez/
+    - icon: github
+      text: Github
+      href: https://github.com/LuisNnz
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/LuisNz__
+---
+
+As an advocate for equitable and transformational public policy, I combine my research and data analysis skills with my personal experiences using economic security programs to assess policy proposals. As a research associate at the Center on Budget and Policy Priorities, I collaborate with analysts and researchers to advance federal legislation to help build a nation where everyone has the resources to thrive and share in the nation's prosperity. I'm committed to advocating for data-focused policy solutions for an inclusive economy while enhancing fiscal responsibility. I seek continuous learning in data analytics and research within a transformational public policy framework.

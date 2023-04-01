@@ -1,0 +1,29 @@
+---
+format:
+  html: 
+    grid:
+      body-width: 1250px
+      margin-width: 150px
+title-block-banner: true
+about:
+  template: solana
+  image: headshot.jpg
+  image-width: 15em
+  image-shape: round
+listing:
+  contents: posts
+  sort: "date"
+  type: grid
+  max-items: 5
+  grid-columns: 3
+---
+
+## Purpose
+
+Join me on a journey of continuous learning by exploring the skills necessary for data analysis: data cleaning, analysis, visualization, and effective communication.
+
+I believe that data analytics and transformational public policy are essential for creating positive change in our communities and society at large. Through the use of data and evidence-based approaches, we can identify and address societal challenges more effectively and efficiently.
+
+We are the path towards a better future for society as a whole.
+
+## Most recents

@@ -1,0 +1,16 @@
+---
+format:
+  html: 
+    grid:
+      sidebar-width: 200px
+      body-width: 1000px
+      margin-width: 200px
+page-layout: full
+listing:
+  contents: posts
+  sort: "date_asc"
+  type: default
+  categories: unnumbered
+  sort-ui: [date]
+  filter-ui: true
+---

@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Luis Nuñez"
+  navbar:
+    background: primary
+    foreground: light
+    search: true
+    left:
+      - text: "About"
+        menu:
+          - text: Who I am
+            file: who-i-am.qmd
+          - text: Resume
+            href: https://drive.google.com/file/d/1P7j6QEbvXH0eR7XwjReMwN2mQ_p5Pa4T/view?usp=share_link
+          - text: Curriculum Vitae
+            href: https://drive.google.com/file/d/1NCoyQlDU9vDy8ak9KYvmzAmSWmNby_v-/view?usp=share_link
+      - text: "Blog"
+        file: blog.qmd
+          # Blog posts - web scraping, exploratory data analysis, data vizualization
+    right:
+      - icon: person-workspace
+        href: https://www.cbpp.org/about/our-staff/luis-nunez
+      - icon: linkedin
+        href: https://www.linkedin.com/in/luis-nu%C3%B1ez/
+      - icon: github
+        menu:
+          - text: Source Code
+            # url: TBD
+          - text: My Profile
+            url: https://github.com/LuisNnz
+      - icon: twitter
+        href: https://twitter.com/LuisNz__
+format:
+  html:
+    theme: Lux
+    css: styles.css
+
+editor: visual
+
