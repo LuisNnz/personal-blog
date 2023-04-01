@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "Luis Nuñez"
   navbar:
@@ -37,6 +38,10 @@ format:
   html:
     theme: Lux
     css: styles.css
+    grid:
+      body-width: 1250px
+      margin-width: 150px
+    
 
 editor: visual
 
